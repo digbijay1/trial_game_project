@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./modern-dark-abstract-background-with-red-light_55870-87.jpg);
+
+}
+#countdown{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    margin-left: 400px;
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;  
+    color: white;
+}
+input{
+    width: 30%;
+    padding: 15px 0;
+    text-align: center;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    color: black;
+    margin: 2rem 0;
+    font-size: 1.1rem;
+    background-color: blue;
+    margin-left: 220px;
+    margin-left: 480px;
+}
+button{
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 620px;
+}
+h1{
+    font-family: 'Pacifico', cursive;  
+    margin-left: 600px;
+    color: tomato;
+    font-size: 50px;
+}
+.msg{
+    margin-left: 550px;
+    font-size: 20px;
+    color: cornflowerblue;
+}
+.hidden{
+    display: none;
+}
